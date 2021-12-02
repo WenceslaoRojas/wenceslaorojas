@@ -59,7 +59,7 @@ Este proyecto fue implementando React y desafiando a la hora de renderizar los e
 
 - Todos los inputs son completamente personalizables a cada situación.
 
-<img align="center" width= "550px" height= "300px"  src='WhaterApp.png' />
+<img align="center" width= "550px" height= "300px"  src='TipApp.png' />
 
 
 <h3 align="left">Connect with me:</h3>
