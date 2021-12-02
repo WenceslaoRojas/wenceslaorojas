@@ -16,8 +16,11 @@
 
 <h2> Proyecto WikiDogs </h2>
 La aplicacion te permite ver distintas razas de perro junto con información relevante de las mismas utilizando la api externa "the dog api" y a partir de ella poder, entre otras cosas:
+
 - Buscar perros
+
 - Filtrarlos / Ordenarlos
+
 - Agregar nuevos perros
 
 Para la realización utilicé React con Redux para el front y para el desarrollo del Backend utilicé NodeJs con Express, en la base de datos implemente PostgreSQL con Sequelize.
