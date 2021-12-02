@@ -1,4 +1,4 @@
-[![Wenceslao's github stats](https://github-readme-stats.vercel.app/api?username=wenceslaorojas&show_icons=true&theme=synthwave)](https://github.com/wenceslaorojas/github-readme-stats)
+<img src="PROGRAMDOR FULL STACK LINKEDIN.png" />
 <h1 align="center">Hola 👋, Yo soy Wenceslao Rojas</h1>
 <h3 align="center">Un apasionado desarrollador de Argentina! 🧉</h3>
 
@@ -13,6 +13,19 @@
 - 💬 Puedes consultarme sobre **HTML5, CSS3, Sass, React, Redux, Node, Express, PostgreSQL y Sequealize**
 
 - 📫 Si quieres puedes escribirme en **wenceslao.roja@gmail.com**
+
+<h2> Proyecto WikiDogs </h2>
+La aplicacion te permite ver distintas razas de perro junto con información relevante de las mismas utilizando la api externa "the dog api" y a partir de ella poder, entre otras cosas:
+- Buscar perros
+- Filtrarlos / Ordenarlos
+- Agregar nuevos perros
+
+Para la realización utilicé React con Redux para el front y para el desarrollo del Backend utilicé NodeJs con Express, en la base de datos implemente PostgreSQL con Sequelize.
+
+<img align="left"  width= "450px" height= "300px" src='Home.jpeg' />
+<img align="center" width= "450px" height= "300px"  src='Landing Page.jpeg' />
+<img align="left" width= "450px" height= "300px" src='Crea tu propio perrito.jpeg' />
+<img align="center"width= "450px" height= "300px" src='Revisa tus perros creado.jpeg' />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
