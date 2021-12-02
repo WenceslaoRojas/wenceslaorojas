@@ -1,29 +1,169 @@
-<h1 align="center">Hola 👋, Yo soy Wenceslao Rojas</h1>
-<h3 align="center">Un apasionado desarrollador de Argentina! 🧉</h3>
+  <h1 align="center">Hola 👋, Yo soy Wenceslao Rojas</h1>
+    <h3 align="center">Un apasionado desarrollador de Argentina! 🧉</h3>
 
-- 🔭 Estuve trabajando en el proyecto [WikiDogs](https://wikidog-wenceslaorojas.netlify.app/)
+    - 🔭 Estuve trabajando en el proyecto
+    [WikiDogs](https://wikidog-wenceslaorojas.netlify.app/) - 🌱 Actualmente
+    estoy aprendiendo **Machine Learning con Python** - 👯 Y colabore en el
+    proyecto [Aplicacion del clima](https://clima-app-rh-wr.netlify.app/) -
+    También desarrollé la aplicación [Tip
+    Calculator](https://61770c0140ba11fd14ff9185--wenceslaorojas-tipapp.netlify.app/)
+    - 💬 Puedes consultarme sobre **HTML5, CSS3, Sass, React, Redux, Node,
+    Express, PostgreSQL y Sequealize** - 📫 Si quieres puedes escribirme en
+    **wenceslao.roja@gmail.com**
 
-- 🌱 Actualmente estoy aprendiendo **Machine Learning con Python**
+    <h3 align="left">Connect with me:</h3>
+    <img
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAapJREFUSEvNld1tE0EUhb8zYyEbHnAqsKkg4RUpYl0BpgJEB+kAUwGbCrJUAFTARlsAoQNTQWIJKeFh5qKZxJaDLbRLcJR5nNE9555zf0bs+GjH+NwvgS4Pa+DlHVXVNmgmS4xbCnR5aHcEz+E2aFa4D4JgIVRGXMWgnucUf744wPlC4sM2xV0U/LAQpng3FHoHFDeAtUWOsTCX8xVif52oLcHCQiic700NS+AbR1DFEI7l/bfOBIKPEauEvgq9z8XbQmSR187pYP2tlQLDJjIdIV7lgPNiqH443yLk1LBZSmT51o7gyu+pH86AUSIDjQUnGwTGhT1u9tZbvB0B/pkIafBGmJ3Zr97E9UNp8AbjO2IMPAUWduXH6+raEWRvmWbAXIBrEh6FgifN55VlxheTlZ0tIgXGMLvVIckOWQmqwQqhmYXw3Hl/tEqk9SRvyexP/w3eErmQ41PnNs3B2JyoYRqomyyT72kFz2MIJfJjiRPE8B8IUue4kcymuQSeKmVLCAt8bz/fi/y2oeyhLbvOG/xvbfo/PpxTGzTLpXjPX2ZnL1oE7PzT/w1A4+wZJ+04QwAAAABJRU5ErkJggg=="
+    />
 
-- 👯 Y colabore en el proyecto [Aplicacion del clima](https://clima-app-rh-wr.netlify.app/)
+    <p align="right">
+      <a
+        href="https://api.whatsapp.com/send?phone=543816398478&text=Hola+Wen!+Como+estas%3F"
+        target="blank"
+      >
+        <img
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAapJREFUSEvNld1tE0EUhb8zYyEbHnAqsKkg4RUpYl0BpgJEB+kAUwGbCrJUAFTARlsAoQNTQWIJKeFh5qKZxJaDLbRLcJR5nNE9555zf0bs+GjH+NwvgS4Pa+DlHVXVNmgmS4xbCnR5aHcEz+E2aFa4D4JgIVRGXMWgnucUf744wPlC4sM2xV0U/LAQpng3FHoHFDeAtUWOsTCX8xVif52oLcHCQiic700NS+AbR1DFEI7l/bfOBIKPEauEvgq9z8XbQmSR187pYP2tlQLDJjIdIV7lgPNiqH443yLk1LBZSmT51o7gyu+pH86AUSIDjQUnGwTGhT1u9tZbvB0B/pkIafBGmJ3Zr97E9UNp8AbjO2IMPAUWduXH6+raEWRvmWbAXIBrEh6FgifN55VlxheTlZ0tIgXGMLvVIckOWQmqwQqhmYXw3Hl/tEqk9SRvyexP/w3eErmQ41PnNs3B2JyoYRqomyyT72kFz2MIJfJjiRPE8B8IUue4kcymuQSeKmVLCAt8bz/fi/y2oeyhLbvOG/xvbfo/PpxTGzTLpXjPX2ZnL1oE7PzT/w1A4+wZJ+04QwAAAABJRU5ErkJggg=="
+      /></a>
+    </p>
+    <p align="left">
+      <a href="https://www.linkedin.com/in/wenceslarojas/" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="wenceslaorojas"
+          height="30"
+          width="40"
+      /></a>
+    </p>
 
-- También desarrollé la aplicación [Tip Calculator](https://61770c0140ba11fd14ff9185--wenceslaorojas-tipapp.netlify.app/)
-
-- 💬 Puedes consultarme sobre **HTML5, CSS3, Sass, React, Redux, Node, Express, PostgreSQL y Sequealize**
-
-- 📫 Si quieres puedes escribirme en **wenceslao.roja@gmail.com**
-
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(1, 247, 61, 1);transform: ;msFilter:;"><path d="M12.043 6.925a4.985 4.985 0 0 0-4.98 4.979c-.001.94.263 1.856.761 2.649l.118.188-.503 1.837 1.885-.494.181.108a4.97 4.97 0 0 0 2.535.693h.001a4.986 4.986 0 0 0 4.979-4.978 4.946 4.946 0 0 0-1.456-3.522 4.946 4.946 0 0 0-3.521-1.46zm2.928 7.118c-.125.35-.723.668-1.01.711a2.044 2.044 0 0 1-.943-.059 8.51 8.51 0 0 1-.853-.315c-1.502-.648-2.482-2.159-2.558-2.26-.074-.1-.61-.812-.61-1.548 0-.737.386-1.099.523-1.249a.552.552 0 0 1 .4-.186c.1 0 .199.001.287.005.092.004.215-.035.336.257.125.3.425 1.036.462 1.111.037.074.062.162.013.262-.05.101-.074.162-.15.25-.074.088-.157.195-.224.263-.075.074-.153.155-.066.305.088.149.388.64.832 1.037.572.51 1.055.667 1.204.743.15.074.237.063.325-.038.087-.101.374-.437.474-.586.1-.15.199-.125.337-.076.137.051.873.412 1.022.487.148.074.249.112.287.175.036.062.036.361-.088.711z"></path><path d="M20 3H4a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm-7.96 14.896h-.002a5.98 5.98 0 0 1-2.862-.729L6 18l.85-3.104a5.991 5.991 0 0 1 5.19-8.983 5.95 5.95 0 0 1 4.238 1.757 5.95 5.95 0 0 1 1.751 4.237 5.998 5.998 0 0 1-5.989 5.989z"></path></svg>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAapJREFUSEvNld1tE0EUhb8zYyEbHnAqsKkg4RUpYl0BpgJEB+kAUwGbCrJUAFTARlsAoQNTQWIJKeFh5qKZxJaDLbRLcJR5nNE9555zf0bs+GjH+NwvgS4Pa+DlHVXVNmgmS4xbCnR5aHcEz+E2aFa4D4JgIVRGXMWgnucUf744wPlC4sM2xV0U/LAQpng3FHoHFDeAtUWOsTCX8xVif52oLcHCQiic700NS+AbR1DFEI7l/bfOBIKPEauEvgq9z8XbQmSR187pYP2tlQLDJjIdIV7lgPNiqH443yLk1LBZSmT51o7gyu+pH86AUSIDjQUnGwTGhT1u9tZbvB0B/pkIafBGmJ3Zr97E9UNp8AbjO2IMPAUWduXH6+raEWRvmWbAXIBrEh6FgifN55VlxheTlZ0tIgXGMLvVIckOWQmqwQqhmYXw3Hl/tEqk9SRvyexP/w3eErmQ41PnNs3B2JyoYRqomyyT72kFz2MIJfJjiRPE8B8IUue4kcymuQSeKmVLCAt8bz/fi/y2oeyhLbvOG/xvbfo/PpxTGzTLpXjPX2ZnL1oE7PzT/w1A4+wZJ+04QwAAAABJRU5ErkJggg=="/>
-<a href="https://linkedin.com/in/wenceslaorojas" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAapJREFUSEvNld1tE0EUhb8zYyEbHnAqsKkg4RUpYl0BpgJEB+kAUwGbCrJUAFTARlsAoQNTQWIJKeFh5qKZxJaDLbRLcJR5nNE9555zf0bs+GjH+NwvgS4Pa+DlHVXVNmgmS4xbCnR5aHcEz+E2aFa4D4JgIVRGXMWgnucUf744wPlC4sM2xV0U/LAQpng3FHoHFDeAtUWOsTCX8xVif52oLcHCQiic700NS+AbR1DFEI7l/bfOBIKPEauEvgq9z8XbQmSR187pYP2tlQLDJjIdIV7lgPNiqH443yLk1LBZSmT51o7gyu+pH86AUSIDjQUnGwTGhT1u9tZbvB0B/pkIafBGmJ3Zr97E9UNp8AbjO2IMPAUWduXH6+raEWRvmWbAXIBrEh6FgifN55VlxheTlZ0tIgXGMLvVIckOWQmqwQqhmYXw3Hl/tEqk9SRvyexP/w3eErmQ41PnNs3B2JyoYRqomyyT72kFz2MIJfJjiRPE8B8IUue4kcymuQSeKmVLCAt8bz/fi/y2oeyhLbvOG/xvbfo/PpxTGzTLpXjPX2ZnL1oE7PzT/w1A4+wZJ+04QwAAAABJRU5ErkJggg==" alt="wenceslaorojas" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/wenceslarojas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wenceslaorojas" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+    <h3 align="left">Languages and Tools:</h3>
+    <p align="left">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+          alt="css3"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+          alt="express"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+          alt="figma"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+          alt="git"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://heroku.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+          alt="heroku"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+          alt="html5"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          alt="javascript"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+          alt="mysql"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+          alt="nodejs"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+          alt="postgresql"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+          alt="postman"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          alt="react"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+          alt="redux"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+          alt="sass"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://www.typescriptlang.org/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+          alt="typescript"
+          width="40"
+          height="40"
+        />
+      </a>
+    </p>
