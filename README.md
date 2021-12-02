@@ -17,11 +17,11 @@
 <h2> Proyecto WikiDogs </h2>
 La aplicacion te permite ver distintas razas de perro junto con información relevante de las mismas utilizando la api externa "the dog api" y a partir de ella poder, entre otras cosas:
 
-- Buscar perros
+- Buscar perros.
 
-- Filtrarlos / Ordenarlos
+- Filtrarlos por temperamentos y ordenarlos alfabéticamente  o por peso.
 
-- Agregar nuevos perros
+- Agregar nuevos perros.
 
 Para la realización utilicé React con Redux para el front y para el desarrollo del Backend utilicé NodeJs con Express, en la base de datos implemente PostgreSQL con Sequelize.
 
@@ -29,6 +29,17 @@ Para la realización utilicé React con Redux para el front y para el desarrollo
 <img align="center"  width= "350px" height= "300px" src='Home.jpeg' />
 <img align="left" width= "350px" height= "300px" src='Crea tu propio perrito.jpeg' />
 <img align="center"width= "350px" height= "300px" src='Revisa tus perros creado.jpeg' />
+
+<h2> Proyecto WhaterApp </h2>
+
+Es una aplicación que muestra el clima renderizándolo desde una api "metaweather" y sus funcionalidades son:
+
+- Geolocalización para mostrar el clima de la ubicación del usuario.
+
+- Diseño responsivo.
+
+- Búsquedas de ciudades y pronostico a dentro de 5 días.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
