@@ -25,8 +25,8 @@ La aplicacion te permite ver distintas razas de perro junto con información rel
 
 Para la realización utilicé React con Redux para el front y para el desarrollo del Backend utilicé NodeJs con Express, en la base de datos implemente PostgreSQL con Sequelize.
 
-<img align="left"  width= "350px" height= "300px" src='Home.jpeg' />
 <img align="center" width= "350px" height= "300px"  src='Landing Page.jpeg' />
+<img align="left"  width= "350px" height= "300px" src='Home.jpeg' />
 <img align="left" width= "350px" height= "300px" src='Crea tu propio perrito.jpeg' />
 <img align="center"width= "350px" height= "300px" src='Revisa tus perros creado.jpeg' />
 
