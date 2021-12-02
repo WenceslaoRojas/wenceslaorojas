@@ -40,6 +40,8 @@ Es una aplicación que muestra el clima renderizándolo desde una api "metaweath
 
 - Búsquedas de ciudades y pronostico a dentro de 5 días.
 
+<img align="center" width= "350px" height= "300px"  src='WhaterApp.jpeg' />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
