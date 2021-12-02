@@ -14,7 +14,10 @@
 
 - 📫 Si quieres puedes escribirme en **wenceslao.roja@gmail.com**
 
-<h2> Proyecto WikiDogs </h2>
+<h2> Proyecto WikiDogs </h2> 
+
+- [ENLACE](https://wikidog-wenceslaorojas.netlify.app/)
+
 La aplicacion te permite ver distintas razas de perro junto con información relevante de las mismas utilizando la api externa "the dog api" y a partir de ella poder, entre otras cosas:
 
 - Buscar perros.
@@ -23,7 +26,7 @@ La aplicacion te permite ver distintas razas de perro junto con información rel
 
 - Agregar nuevos perros.
 
-Para la realización utilicé React con Redux para el front y para el desarrollo del Backend utilicé NodeJs con Express, en la base de datos implemente PostgreSQL con Sequelize.
+Para la realización utilicé React con Redux para el front y para el desarrollo del Backend utilicé NodeJs con Express, en la base de datos implemente PostgreSQL con Sequelize y para el estilado CSS puro.
 
 <img align="left" width= "350px" height= "300px"  src='Landing Page.jpeg' />
 <img align="center"  width= "350px" height= "300px" src='Home.jpeg' />
@@ -31,6 +34,8 @@ Para la realización utilicé React con Redux para el front y para el desarrollo
 <img align="center"width= "350px" height= "300px" src='Revisa tus perros creado.jpeg' />
 
 <h2> Proyecto WhaterApp </h2>
+
+-[ENLACE](https://clima-app-rh-wr.netlify.app/)
 
 Es una aplicación que muestra el clima renderizándolo desde una api "metaweather" y sus funcionalidades son:
 
@@ -40,7 +45,21 @@ Es una aplicación que muestra el clima renderizándolo desde una api "metaweath
 
 - Búsquedas de ciudades y pronostico a dentro de 5 días.
 
-<img align="center" width= "350px" height= "300px"  src='WhaterApp.png' />
+Para realizar el proteyecto implementamos, junto a Ricardo Hernandez, React Js con Redux, y CSS puro.
+
+<img align="center" width= "550px" height= "300px"  src='WhaterApp.png' />
+
+<h2> Proyecto TipApp </h2>
+
+-[ENLACE](https://61770c0140ba11fd14ff9185--wenceslaorojas-tipapp.netlify.app/)
+
+Este proyecto fue implementando React y desafiando a la hora de renderizar los estados de los inputs, entre sus funcionalidades destacan:
+
+- Calcular el monto total de la propina basado en el porcentaje, y el monto que deberá aportar cada uno de los comensales.
+
+- Todos los inputs son completamente personalizables a cada situación.
+
+<img align="center" width= "550px" height= "300px"  src='WhaterApp.png' />
 
 
 <h3 align="left">Connect with me:</h3>
