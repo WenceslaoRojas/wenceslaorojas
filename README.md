@@ -1,3 +1,4 @@
+[![Wenceslao's github stats](https://github-readme-stats.vercel.app/api?username=wenceslaorojas&show_icons=true&theme=synthwave)](https://github.com/wenceslaorojas/github-readme-stats)
 <h1 align="center">Hola 👋, Yo soy Wenceslao Rojas</h1>
 <h3 align="center">Un apasionado desarrollador de Argentina! 🧉</h3>
 
