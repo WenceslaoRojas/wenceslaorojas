@@ -33,7 +33,7 @@ Para la realización utilicé React con Redux para el front y para el desarrollo
 <img align="left" width= "350px" height= "300px" src='Crea tu propio perrito.jpeg' />
 <img align="center"width= "350px" height= "300px" src='Revisa tus perros creado.jpeg' />
 
-<h2> Proyecto WhaterApp 🌦</h2>
+<h2> Proyecto WeatherApp 🌦</h2>
 
 -[ENLACE](https://clima-app-rh-wr.netlify.app/)
 
