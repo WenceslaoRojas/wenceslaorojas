@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Yo soy Wenceslao Rojas</h1>
 <h3 align="center">Un apasionado desarrollador de Argentina! 🧉</h3>
 
-- 🔭 Estuve trabajando en el proyecto [WikiDogs](https://wikidog-wenceslaorojas.netlify.app/)
+- 🔭 Actualmente trabajo como Full Stack Developer orientado a BackEnd en [Driven Devs](https://www.linkedin.com/company/drivendevs)
 
 - 🌱 Actualmente estoy aprendiendo **Machine Learning con Python**
 
