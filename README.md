@@ -73,3 +73,5 @@ Este proyecto fue implementando React y desafiando a la hora de renderizar los e
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WenceslaoRojas&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+https://github-profile-trophy.vercel.app/?username=WenceslaoRojas
