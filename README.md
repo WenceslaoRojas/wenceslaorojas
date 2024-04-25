@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Yo soy Wenceslao Rojas</h1>
 <h3 align="center">Un apasionado desarrollador de Argentina! 🧉</h3>
 
-- 🔭 Actualmente trabajo como Full Stack Developer orientado a BackEnd en [Driven Devs](https://www.linkedin.com/company/drivendevs)
+- 🔭 Actualmente trabajo como Full Stack Developer orientado a BackEnd en [TopTive](https://www.toptive.co/)
 
 - 🌱 Actualmente estoy aprendiendo **Machine Learning con Python**
 
